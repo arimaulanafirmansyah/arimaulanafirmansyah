@@ -21,11 +21,10 @@ Pada akhirnya, kamu tidak lebih dari pecundang pekerja keras
 
 </div>
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### My Website
 <!--[![website](https://im-amf.me)](https://im-amf.me)-->
-
+<p align='center'>
+   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
 <details>
   <summary><b>Don't click me</b></summary>
 
