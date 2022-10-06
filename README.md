@@ -24,7 +24,7 @@ Pada akhirnya, kamu tidak lebih dari pecundang pekerja keras
 ### My Website
 <!--[![website](https://im-amf.me)](https://im-amf.me)-->
 <p align='center'>
-   <a href="https://www.facebook.com/ciciyber.squadindo.7"><img height="100" src="https://raw.githubusercontent.com/tahaluindo/tahaluindo/64478fa6dc44f9aa505ca49d384375946107db89/speed.svg"></a></p>
+   <a href="https://im-amf.me" alt="My Website"></a></p>
 <details>
   <summary><b>Don't click me</b></summary>
 
