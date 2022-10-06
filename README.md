@@ -23,9 +23,9 @@ Pada akhirnya, kamu tidak lebih dari pecundang pekerja keras
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vfdp4tew6j54i3mdf57bl3zsoa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31vfdp4tew6j54i3mdf57bl3zsoa&redirect=true)-->
-<img src="https://spotify-badge-n1ght420.vercel.app/api/now-playing.svg" width="500" height="50" alt="now playing">
+### My Website
+<!--[![website](https://im-amf.me)](https://im-amf.me)-->
+<img src="https://im-amf.me" width="500" height="50" alt="now playing">
 
 <details>
   <summary><b>Don't click me</b></summary>
